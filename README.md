@@ -14,12 +14,10 @@ Technical notes:
 - Normandy asset https://www.blendswap.com/blend/8489 
 - Drones were made by me (simple shapes put together)
 
-Here is the video of it running: https://youtu.be/1gwCt6TTt_w
+Here is the video of it running: 
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/1gwCt6TTt_w" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+https://youtu.be/1gwCt6TTt_w
+
 
 
 Thank you!
