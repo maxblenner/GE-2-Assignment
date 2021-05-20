@@ -16,8 +16,6 @@ Technical notes:
 
 Here is the video of it running: 
 
-https://youtu.be/1gwCt6TTt_w
-
-
+[![Mass Effect 2 Space Chase](https://i9.ytimg.com/vi_webp/1gwCt6TTt_w/mqdefault.webp?time=1621518300000&sqp=CNzPmYUG&rs=AOn4CLALwrJQ4XF9fhK9cQzuDJc0rVmC2w)](https://youtu.be/1gwCt6TTt_w "Video of scene")
 
 Thank you!
