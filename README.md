@@ -8,7 +8,7 @@ Video informaion:
 - The SR2 Normandy is being chased through an asteroid field by hostile drones. 
 
 Technical notes:
-- I used navigation mesh or NavMesh in order to pathfind for the main ship and the smaller drones chase after using regular transform position follows. 
+- I used navigation mesh or NavMesh in order to pathfind for the main ship (avoiding the asteroids) and the smaller drones chase after using regular transform position follows. 
 - The reason the ship doesn't rotate is due to the rotations bugging out everytime I didn't lock them. Therefore I decided to lock the uprotation and rotation in navmesh.
 - I coded normandy controller and enemy controller classes
 - Normandy asset https://www.blendswap.com/blend/8489 
